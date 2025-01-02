@@ -1,15 +1,10 @@
-/* Education Section*/
-Education_tittle{
-  colour:#0349AB;
-  font-weight:Bold;
-}
-/* Skill Section*/
-Skills_tittle {
-  colour:#0349AB;
-  font-weight:Bold;
-}
-/*Practical Knowledge Section*/
-Practicalknowledge_tittlr{
-  colour:#0349AB;
-  font-weight:Bold;
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: black
+  color: white;
+  padding: 10px;
+  text-align: center;
 }
