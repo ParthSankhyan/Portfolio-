@@ -1,10 +1,10 @@
-.h2 {
+.h2{
     colour: blue;
  font-size: 26px;
 }
-.footer-name{
+.footer{
     background: black;
     Colour: white;
     Text: Bold;
-    font-size: 20px;
+    font-weight: 600;
 }
