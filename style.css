@@ -1,4 +1,7 @@
-h2 {
+.h2 {
     colour: blue;
  font-size: 26px;
 }
+.footer-name{
+    background: linear-gradient(243deg, #FFD0EC 50%, #c89feb);
+   
