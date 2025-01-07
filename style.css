@@ -16,6 +16,6 @@
   display: inline-block;
 }
 .footer{
-        background: black
-        colour: white
+        background-colour: black;
+        colour: white;
 }
