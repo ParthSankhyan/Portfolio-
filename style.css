@@ -1,4 +1,7 @@
-h1 {
-  size: 40;
+.tittle {
+        size: 50
+}
+.h1 {
+  size: 50;
   color: Red;
 }
