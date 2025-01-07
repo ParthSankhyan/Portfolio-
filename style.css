@@ -1,10 +1,8 @@
-.h2{
-    colour: blue;
- font-size: 26px;
+h1 {
+
+  size: 7;
+
+  color: Black;
+
 }
-.footer{
-    background: black;
-    Colour: white;
-    Text: Bold;
-    font-weight: 600;
-}
+
