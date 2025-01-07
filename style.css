@@ -1,8 +1,9 @@
+
 .tittle {
-        size: 50
+        width: 50
         position: fixed
 }
 .h1 {
-  size: 50;
+  width: 50;
   color: Red;
 }
