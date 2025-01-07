@@ -10,3 +10,8 @@
    width: 45
         colour: #0000AB;
 }
+.bordered {
+  border: 2px solid black;
+  padding: 10px;
+  display: inline-block;
+}
