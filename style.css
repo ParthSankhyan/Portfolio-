@@ -2,10 +2,11 @@
         width:100%
                 Height:100%
         position: fixed
+        Font-weight: bold
 }
 .h1{
   width: 50;
-  color: Red;
+  color: #FF0000;
 }
 .h2{
    width: 45
