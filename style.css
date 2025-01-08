@@ -15,7 +15,27 @@
   padding: 10px;
   display: inline-block;
 }
-.footer{
-        background-colour: black;
-        colour: white;
+/* Footer Container */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+/* Footer Links */
+footer a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+
+
+/* Footer Bottom Text */
+footer .footer-bottom {
+  font-size: 14px;
+  margin-top: 20px;
+  opacity: 0.8;
 }
