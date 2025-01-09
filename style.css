@@ -62,4 +62,12 @@ body {
     .social-icons a {
         font-size: 36px; /* Smaller size for smaller screens */
     }
+        
+}.container {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center; 
+}
+.item {
+  flex: 1;
 }
