@@ -71,3 +71,20 @@ body {
 .item {
   flex: 1;
 }
+   .navigation {
+        padding-left: 0px;
+        padding-right: 0%;
+        padding-bottom: 0px;
+        margin-left: 0px;
+        margin-right: 3%;
+        gap: 10px;
+        margin-bottom: 0px;
+    }
+    .navigation a {
+        font-size: 80%;
+        font-weight: 300;
+        padding-left: 0px;
+        padding-bottom: 0px;
+        margin-left: 0px;
+        margin-bottom: 0px;
+    }
