@@ -47,3 +47,19 @@ body {
   background-repeat: no-repeat; /* Prevents the image from repeating */
   background-position: center center; /* Centers the image */
 }
+.social-icons a {
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 48px;
+    color: #ffffff; /* Change as per your background */
+    transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+    color: #00aced; /* Change to your hover color */
+}
+@media (max-width: 768px) {
+    .social-icons a {
+        font-size: 36px; /* Smaller size for smaller screens */
+    }
+}
