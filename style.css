@@ -41,7 +41,9 @@
 .rights p {
     margin: 0;
 }
-.social-links a {
-    font-size: 40px;
-    margin-left: 50px;
+body {
+  background-image: (parthSankhyan.png);
+  background-size: cover; /* This makes sure the image covers the entire background */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  background-position: center center; /* Centers the image */
 }
