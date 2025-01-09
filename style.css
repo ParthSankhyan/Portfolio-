@@ -43,24 +43,24 @@
 }
 body {
   background-image: (parthSankhyan.png);
-  background-size: cover; /* This makes sure the image covers the entire background */
-  background-repeat: no-repeat; /* Prevents the image from repeating */
-  background-position: center center; /* Centers the image */
+  background-size: cover;
+  background-repeat: no-repeat; 
+  background-position: center center; 
 }
 .social-icons a {
     text-decoration: none;
     margin: 0 10px;
-    font-size: 48px;
+    font-size: 80Spx;
     color: #ffffff; /* Change as per your background */
     transition: color 0.3s ease;
 }
 
 .social-icons a:hover {
-    color: #00aced; /* Change to your hover color */
+    color: #00aced;
 }
 @media (max-width: 768px) {
     .social-icons a {
-        font-size: 36px; /* Smaller size for smaller screens */
+        font-size: 36px;
     }
         
 }.container {
