@@ -92,13 +92,20 @@ body {
  .Navigation Bar
     header{
         width: 100%;
-        height: 10%;
+        height: 100%;
         padding-left: 0px;
         padding-right: 0px;
         padding-bottom: 0px;
         padding-top: 0px;
         margin-left: 0px;
         margin-bottom: 0px;
-        background-color: Transparent;
+        background-colour: Transparent;
             colour: Blue;
     }
+.toTheTopButton
+header{
+  width: 100%;
+        height:100%;
+        background-colour: White;
+colour: black;
+}
