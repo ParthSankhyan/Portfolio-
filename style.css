@@ -69,9 +69,6 @@ body {
   justify-content: space-between; 
   align-items: center; 
 }
-.item {
-  flex: 1;
-}
    .navigation {
         padding-left: 0px;
         padding-right: 0%;
@@ -103,9 +100,19 @@ body {
             colour: Blue;
     }
 .toTheTopButton
-header{
-  width: 50;
-        height:50;
-        background-colour: White;
-colour: black;
+display: none;
+    width: 65px;
+    height: 70px;
+    position: fixed;
+    bottom: 20px;
+    right: 35px;
+    background-color: white;
+    color: black;
+    font-size: 50px;
+    border-radius: 9%;
+    transition: 0.3s;
+}
+.toTheTopButton:hover {
+    transform: translate(0, -10px);
+    background-color: white;
 }
