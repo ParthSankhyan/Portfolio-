@@ -116,7 +116,7 @@ display: none;
     transform: translate(0, -10px);
     background-color: white;
 }
-logo {
+.logo {
     font-size: 2em;
     cursor: default;
     background: linear-gradient(243deg,#5d69be 15%, #c89feb);
