@@ -115,7 +115,8 @@ display: none;
 .toTheTopButton:hover {
     transform: translate(0, -10px);
     background-color: white;
-        logo {
+}
+logo {
     font-size: 2em;
     cursor: default;
     background: linear-gradient(243deg,#5d69be 15%, #c89feb);
@@ -125,4 +126,3 @@ display: none;
     font-weight: 600;
     line-height: 1.6em;
     letter-spacing: 0px;
-}
