@@ -6,11 +6,11 @@
 }
 .h1{
   color: red;
-        align: center;
+text-align: center;
 }
 .h2{
-        colour: blue;
-        Align:left;
+ colour: blue;
+ text-align:left;
 }
 .bordered {
   border: 2px solid black;
