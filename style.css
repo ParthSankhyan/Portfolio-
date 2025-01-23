@@ -5,12 +5,12 @@
         Font-weight: bold
 }
 .h1{
-  width: 50;
-  color: #FF0000;
+  color: Red;
+        Align: Center
 }
 .h2{
-   width: 45
-        colour: #0000AB;
+        colour: Blue;
+        Align:Left;
 }
 .bordered {
   border: 2px solid black;
