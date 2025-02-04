@@ -8,11 +8,11 @@
   color: red;
 text-align: center;
 }
-. Education {
+.Education {
          colour: blue;
  text-align:left;
 }
-.Site work {
+.Sitework {
  colour: blue;
  text-align:left;
 }
@@ -77,58 +77,6 @@ body {
         font-size: 36px;
     }
         
-}.container {
-  display: flex;
-  justify-content: space-between; 
-  align-items: center; 
-}
-   .navigation {
-        padding-left: 0px;
-        padding-right: 0%;
-        padding-bottom: 0px;
-        margin-left: 0px;
-        margin-right: 3%;
-        gap: 10px;
-        margin-bottom: 0px;
-    }
-    .navigation a {
-        font-size: 80%;
-        font-weight: 300;
-        padding-left: 0px;
-        padding-bottom: 0px;
-        margin-left: 0px;
-        margin-bottom: 0px;
-    }
- .Navigation Bar
-    header{
-        width: 100%;
-        height: 100%;
-        padding-left: 0px;
-        padding-right: 0px;
-        padding-bottom: 0px;
-        padding-top: 0px;
-        margin-left: 0px;
-        margin-bottom: 0px;
-        background-colour: Transparent;
-            colour: Blue;
-    }
-.toTheTopButton
-display: none;
-    width: 65px;
-    height: 70px;
-    position: fixed;
-    bottom: 20px;
-    right: 35px;
-    background-color: white;
-    color: black;
-    font-size: 50px;
-    border-radius: 9%;
-    transition: 0.3s;
-}
-.toTheTopButton:hover {
-    transform: translate(0, -10px);
-    background-color: white;
-}
 .logo {
     font-size: 2em;
     cursor: default;
