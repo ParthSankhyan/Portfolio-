@@ -8,8 +8,21 @@
   color: red;
 text-align: center;
 }
-.h2 {
+. Education {
+         colour: blue;
+ text-align:left;
+}
+.Site work {
  colour: blue;
+ text-align:left;
+}
+. 
+.skills {
+       colour: blue;
+ text-align:left;
+}
+.mywork {
+       colour: blue;
  text-align:left;
 }
 .bordered {
