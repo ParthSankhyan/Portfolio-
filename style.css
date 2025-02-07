@@ -60,23 +60,9 @@ body {
   background-repeat: no-repeat; 
   background-position: center center; 
 }
-.social-icons a {
-    text-decoration: none;
-    margin: 0 10px;
-    font-size: 80Spx;
-    color: #ffffff; /* Change as per your background */
-    transition: color 0.3s ease;
-}
-
-.social-icons a:hover {
-    color: #00aced;
-        Size: 35px
-}
-@media (max-width: 768px) {
-    .social-icons a {
-        font-size: 36px;
-    }
-        
+.social-icons {
+   width: 1024px
+       height: 512px
 .logo {
     font-size: 2em;
     cursor: default;
