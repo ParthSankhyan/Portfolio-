@@ -61,8 +61,10 @@ body {
   background-position: center center; 
 }
 .social-icons {
-   width: 1024px
-       height: 512px
+   width: 16
+       height: 16
+           align:right
+}
 .logo {
     font-size: 2em;
     cursor: default;
